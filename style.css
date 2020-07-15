@@ -258,7 +258,7 @@ footer a{
   .menu-container {
     position: fixed;
     top: 1rem;
-    right: 3rem;
+    left: 90%;
     z-index: 1;
   }
 
