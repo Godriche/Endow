@@ -362,7 +362,7 @@ footer a {
   .menu-container .menu {
     position: fixed;
     top: 0;
-    right: 0;
+    left: 0;
     width: 65%;
     height: 100%;
     visibility: hidden;
